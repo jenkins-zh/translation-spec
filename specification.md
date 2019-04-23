@@ -13,6 +13,7 @@
 * Pull Request
 * master
 * token
+* secret
 
 # 中英文对照表
 
