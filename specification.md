@@ -28,5 +28,6 @@
 |Code of Conduct|行为守则|
 |press contact|媒体联系人|
 |Jenkins board|Jenkins 委员会|
+|repository|仓库|
 
 如果有任何疑问，请先针对该说明发起讨论。
